@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "strict": true,
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "baseUrl": ".",
+    "declaration": true,
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "lib": ["esnext"]
+  },
+  "exclude": ["node_modules"]
+}
