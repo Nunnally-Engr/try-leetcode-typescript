@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "new": "hygen new fc"
   },
   "devDependencies": {
     "@types/jest": "^29.0.3",
@@ -12,6 +13,7 @@
     "eslint": "^7.13.0",
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-prettier": "^3.1.4",
+    "hygen": "^6.2.11",
     "jest": "^26.6.3",
     "prettier": "^2.1.2",
     "ts-jest": "^26.4.4",
