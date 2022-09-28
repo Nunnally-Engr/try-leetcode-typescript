@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "new": "hygen new fc"
+    "new:problem": "hygen new problem"
   },
   "devDependencies": {
     "@types/jest": "^29.0.3",
